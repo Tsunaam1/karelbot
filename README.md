@@ -1,10 +1,11 @@
 # KarelBot
-Jde o jednoduchého robota Karla, který se pomocí základních textových příkazů pohybuje po 2D herním poli a umožňuje pokládat na jednotlivá políčka písmenka/barvy.
+Jde o jednoduchého robota Karla, který se pomocí základních textových příkazů pohybuje po 2D herním poli a umožňuje pokládat na jednotlivá políčka písmenka/barvy.\
+Bohužel zatím není optimalizováno pro uživatele na mobilním a tabletovém zařízení.
 
 ## Jak Káju ovládat
-Do textového pole dejte příkazy (možné příkazy jsou vypsány dole).
-Klikněte na tlačítko "Proveď".
-Koukejte, jak Vaše příkazy poslouchá.
+Do textového pole dejte příkazy (možné příkazy jsou vypsány dole).\
+Klikněte na tlačítko "Proveď".\
+Koukejte, jak Vaše příkazy poslouchá.\
 
 ## Možné příkazy
 - KROK - Pohyb o určité pole (např. KROK 4)
