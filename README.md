@@ -48,3 +48,5 @@ VLEVOBOK 3
 [<img src="https://github.com/user-attachments/assets/0e224206-2b79-4174-8a7f-fa877c9e3888">](https://tunki.pages.dev/karelbot/)
 Klikněte pro otevření KarlaBota
 
+## Shoutout
+Děkuji [Míšovi](https://github.com/Chocobo69/) za připomenutí, že něco jako switch v JS existuje.
