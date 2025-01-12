@@ -3,9 +3,9 @@ Jde o jednoduchého robota Karla, který se pomocí základních textových př�
 Bohužel zatím není optimalizováno pro uživatele na mobilním a tabletovém zařízení.
 
 ## Jak Káju ovládat
-Do textového pole dejte příkazy (možné příkazy jsou vypsány dole).\
-Klikněte na tlačítko "Proveď".\
-Koukejte, jak Vaše příkazy poslouchá.\
+Do textového pole dejte příkazy (možné příkazy jsou vypsány dole)\
+Klikněte na tlačítko "Proveď"\
+Koukejte, jak Vaše příkazy poslouchá
 
 ## Možné příkazy
 - KROK - Pohyb o určité pole (např. KROK 4)
@@ -44,6 +44,7 @@ POLOZ 👽
 KROK
 VLEVOBOK 3
 ```
-## Ukázka
+## Live preview
 [<img src="https://github.com/user-attachments/assets/0e224206-2b79-4174-8a7f-fa877c9e3888">](https://tunki.pages.dev/karelbot/)
+Klikněte pro otevření KarlaBota
 
