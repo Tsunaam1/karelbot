@@ -45,4 +45,4 @@ KROK
 VLEVOBOK 3
 ```
 ## Ukázka
-![Screenshot 2025-01-12 164810](https://github.com/user-attachments/assets/a17ba2cc-a7f5-4bc6-9ed4-af32dce397f3)
+![Screenshot 2025-01-12 164810](https://tunki.pages.dev/karelbot/)
